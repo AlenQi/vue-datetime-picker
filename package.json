@@ -17,5 +17,22 @@
     "@vue/cli-service": "^3.0.1",
     "@vue/eslint-config-airbnb": "^3.0.1",
     "vue-template-compiler": "^2.5.17"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlenQi/vue-datetime-picker.git"
+  },
+  "keywords": [
+    "vue",
+    "datetime",
+    "picker"
+  ],
+  "author": "alenqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenQi/vue-datetime-picker/issues"
+  },
+  "homepage": "https://github.com/AlenQi/vue-datetime-picker#readme"
 }
